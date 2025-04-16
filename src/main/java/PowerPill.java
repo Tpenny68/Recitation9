@@ -81,6 +81,7 @@ public class PowerPill
         this.name = name;
     }
 
+
     // toString method for printing
     @Override
     public String toString() {
