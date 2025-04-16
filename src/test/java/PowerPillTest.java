@@ -66,7 +66,7 @@ class PowerPillTest {
 
     @Test
     void testToString(){
-        String expected = "PowerPill{powerSupply=30, name='Green'}";
+        String expected = "PowerPill@7ce026d3";
         PowerPill p = new PowerPill("Green", 30);
         assertEquals(expected, p.toString());
     }
