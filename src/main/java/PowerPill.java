@@ -85,7 +85,7 @@ public class PowerPill
     // toString method for printing
     @Override
     public String toString() {
-        return "PowerPill{name='" + name + "', power=" + powerSupply + "}";
+        return "PowerPill{powerSupply='" + powerSupply + "', name=" + name + "}";
     }
 
     // equals method for comparing pill objects
