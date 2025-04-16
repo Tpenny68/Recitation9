@@ -21,6 +21,7 @@ public class Grok
     // accessor variables
 
     /*
+
      * Initializes a Grok object to the default power level of 50.
      */
     private void init(int powerLevel)
