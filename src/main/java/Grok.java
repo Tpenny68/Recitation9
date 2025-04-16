@@ -35,7 +35,6 @@ public class Grok
     {
         init(DEFAULT_POWER_LEVEL);
     }
-
     /*
      * Initializes a Grok object to power powerLevel
      */
